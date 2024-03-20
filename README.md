@@ -4,6 +4,8 @@ This repo contains the code from this [Udemy course](https://www.udemy.com/cours
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+## Some commands
+
 activate \<environment\>
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
