@@ -6,9 +6,13 @@ This repo contains the code from this [Udemy course](https://www.udemy.com/cours
 
 ## Some commands
 
+### 1. Activating anaconda environment
+
 activate \<environment\>
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+### 2. Starting Jupyter (Jupyter lab) in particular folder
 
 jupyter notebook --notebook-dir="\<Path to desired working folder\>"
 
