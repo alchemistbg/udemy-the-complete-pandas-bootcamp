@@ -4,7 +4,7 @@ This repo contains the code from this [Udemy course](https://www.udemy.com/cours
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-## Some usefull working commands
+## Some useful working commands
 
 ### 1. Activating anaconda environment
 
